@@ -1,0 +1,51 @@
+/* Stylesheet for Evidence 3 */
+
+html body {
+	vertical-align: top;
+	margin: 0;
+	padding: 0;
+	color: ; /* Text Color */
+	font-family: ; /* Font for the text */
+	font-weight: ; /* Weight for the text */
+	font-size: 1em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	vertical-align: top;
+	color:whitesmoke; /* Color for headers */
+	font-weight:50px ; /* Weight for headers */
+}
+
+header, section {
+	vertical-align: top;
+	max-width: 1200px;
+	margin: 0 auto;
+	background-image: url(img/tumblr_ogpfksowre1th60weo1_500.gif);
+}
+
+ul li {
+	vertical-align: top;
+	display: inline-block;
+	padding: 5px;
+}
+nav a {
+	text-decoration: none;
+	color:palevioletred;
+	font-family: "Algerian";
+	font-size: 20px;
+}
+body{
+	background-color: black
+}
+p{
+	color: floralwhite;
+	font-size: 15px;
+	font-family: "Lucida Sans Typewriter";
+	text-align: right;
+}
+.footer{
+	background-image: url(img/5dd36664264bfe604954202b88cdec42.jpg);
+	background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
